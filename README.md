@@ -1,4 +1,4 @@
-🚀 Solana Hello World (Native Rust)
+🚀 Solana Hello World 
 
 📘 Description
 
